@@ -16,3 +16,4 @@ public class tram {
         System.out.println(minCount);
     }
 }
+
