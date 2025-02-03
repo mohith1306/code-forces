@@ -15,4 +15,4 @@ public class wrongsubtraction{
         System.out.println(num);
     }
 }
-// 1000000000 9
+
